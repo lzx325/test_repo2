@@ -1,2 +1,3 @@
 aaa
 user 2: some conflicts
+user 2: user2 added some more conflicts
